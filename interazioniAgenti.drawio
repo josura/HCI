@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T11:27:05.743Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="4hWsBGmcAbFTJtwy869N" type="github"><diagram id="Weatw9pg2ew024nTVfbF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-10T11:42:32.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="0gBmGnqt3IKUYzhbKLWc" type="github">
+  <diagram id="3st0NTb_qTtGM0deHDMW" name="Pagina-1">
+    <mxGraphModel dx="735" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hUgGoCdYzZ445Y3e_oQ7-1" value="Purchase use case" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="560" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hUgGoCdYzZ445Y3e_oQ7-2" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hUgGoCdYzZ445Y3e_oQ7-3" value="Shipper" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hUgGoCdYzZ445Y3e_oQ7-4" value="Bank" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hUgGoCdYzZ445Y3e_oQ7-5" value="Artisan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
