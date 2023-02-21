@@ -1,0 +1,32 @@
+<?xmp version="1.0" encoding="UTF-8" standalone="yes"?>
+<TaskModel xmlns="http://giove.isti.cnr.it/ctt" xmlns:coop="http://giove.isti.cnr.it/cttcoop" NameTaskModelID="1. mainTask">
+    <Task Identifier="1. mainTask" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>mainTask</Name>
+        <Type>None</Type>
+        <SubTask>
+            <Task Identifier="1.1 insert personal card" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <TemporalOperator name="SequentialEnablingInfo"/>
+                <Parent name="1. mainTask"/>
+                <SiblingRight name="1.2 interactive terminal (Kiosk)"/>
+            </Task>
+            <Task Identifier="1.2 interactive terminal (Kiosk)" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <TemporalOperator name="Disabling"/>
+                <Parent name="1. mainTask"/>
+                <SiblingLeft name="1.1 insert personal card"/>
+                <SiblingRight name="1.3 quit"/>
+            </Task>
+            <Task Identifier="1.3 quit" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <Parent name="1. mainTask"/>
+                <SiblingLeft name="1.2 interactive terminal (Kiosk)"/>
+                <SiblingRight name="Task_4"/>
+            </Task>
+            <Task Identifier="Task_4" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <Parent name="1. mainTask"/>
+                <SiblingLeft name="1.3 quit"/>
+            </Task>
+        </SubTask>
+    </Task>
+</TaskModel>
