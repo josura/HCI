@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T20:31:51.147Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VD-jfm2YEz0wOH3a_nI0" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T20:33:16.946Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UQHHyofkIN6XseihyYaX" version="20.8.23" type="github">
   <diagram name="Pagina-1" id="1wd1qRFHIOmjiayLOUDQ">
     <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,19 +40,19 @@
         <mxCell id="z5TwD4ITp_cDmmy_DJb5-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="Q3N0mhWa4I86AAQrIHix-1">
           <mxGeometry y="110" width="760" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z5TwD4ITp_cDmmy_DJb5-13" value="File" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-13" value="Products" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
           <mxGeometry width="126.66666666666667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z5TwD4ITp_cDmmy_DJb5-14" value="Edit" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-14" value="Region" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
           <mxGeometry x="126.66666666666667" width="126.66666666666667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z5TwD4ITp_cDmmy_DJb5-15" value="Options" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-15" value="Artisans" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
           <mxGeometry x="253.33333333333334" width="126.66666666666667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z5TwD4ITp_cDmmy_DJb5-16" value="Tools" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-16" value="News" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
           <mxGeometry x="380" width="126.66666666666667" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z5TwD4ITp_cDmmy_DJb5-17" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-17" value="Join" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
           <mxGeometry x="506.6666666666667" width="126.66666666666667" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z5TwD4ITp_cDmmy_DJb5-18" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" vertex="1" parent="z5TwD4ITp_cDmmy_DJb5-12">
