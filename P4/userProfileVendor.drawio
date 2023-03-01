@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T23:49:38.805Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AhUQBXOgJ4SwHQ3UDJ3S" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T11:14:22.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="P2XoJQU4LkmcGVvcvaSf" version="20.8.23" type="github">
   <diagram name="Pagina-1" id="x2BRIcllwMEJwVAzaiwb">
     <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -435,6 +435,15 @@
         </mxCell>
         <mxCell id="kNPeD4hBuYndt3T_yiyA-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=97.398;handleStyle=circle;fillColor2=#ddeeff;direction=north;" vertex="1" parent="UzuAz0OelTo2IA3SxHxy-1">
           <mxGeometry x="560" y="110" width="30" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="kNPeD4hBuYndt3T_yiyA-80" value="Custom order" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fff2cc;whiteSpace=wrap;" vertex="1" parent="UzuAz0OelTo2IA3SxHxy-1">
+          <mxGeometry x="160" y="237" width="186" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kNPeD4hBuYndt3T_yiyA-82" value="Contact:" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UzuAz0OelTo2IA3SxHxy-1">
+          <mxGeometry x="128" y="195" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kNPeD4hBuYndt3T_yiyA-83" value="&amp;lt;email &amp;amp; phone number, ...&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="UzuAz0OelTo2IA3SxHxy-1">
+          <mxGeometry x="198" y="195" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kNPeD4hBuYndt3T_yiyA-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="209" y="566" width="70" height="80" as="geometry" />
