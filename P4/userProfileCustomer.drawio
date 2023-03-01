@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T20:49:08.507Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="t35bd90pgD8xxz-rxUgx" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T11:09:57.336Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="A2YuQzi5Zl7ycMjR5Xns" version="20.8.23" type="github">
   <diagram name="Pagina-1" id="1wd1qRFHIOmjiayLOUDQ">
     <mxGraphModel dx="1018" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="z5TwD4ITp_cDmmy_DJb5-38" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=86.374;handleStyle=circle;fillColor2=#ddeeff;direction=north;" vertex="1" parent="Q3N0mhWa4I86AAQrIHix-1">
           <mxGeometry x="450" y="320" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="z5TwD4ITp_cDmmy_DJb5-39" value="&amp;lt;handicaps, technical support, additional information about the needs and condition of the user&amp;gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Q3N0mhWa4I86AAQrIHix-1">
+          <mxGeometry x="180" y="259" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z5TwD4ITp_cDmmy_DJb5-24" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="380" width="440" height="140" as="geometry" />
