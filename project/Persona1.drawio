@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T09:47:50.722Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FP4Oqre8qlAlhGEt_uLK" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:48:34.181Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rf65-TAjZGB1SoX-rMO7" version="21.2.1" type="github">
   <diagram name="Pagina-1" id="pmZUNeCn2QfLpuEW-w0X">
     <mxGraphModel dx="1110" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-14" value="25%" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeHeight=1;" vertex="1" parent="ar-AbY8KUBSnzsoTHz6L-13">
           <mxGeometry width="90" height="20" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ar-AbY8KUBSnzsoTHz6L-15" value="INTERNET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-15" value="SOFTWARE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220.5" y="394" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-16" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#E9ECEF;strokeColor=none;" vertex="1" parent="1">
@@ -64,8 +64,8 @@
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-17" value="25%" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeHeight=1;" vertex="1" parent="ar-AbY8KUBSnzsoTHz6L-16">
           <mxGeometry width="90" height="20" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ar-AbY8KUBSnzsoTHz6L-18" value="INTERNET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="438" width="60" height="30" as="geometry" />
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-18" value="MOBILE APPS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="438" width="98.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-19" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#E9ECEF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="223.5" y="506" width="310" height="20" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-20" value="25%" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeHeight=1;" vertex="1" parent="ar-AbY8KUBSnzsoTHz6L-19">
           <mxGeometry width="90" height="20" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ar-AbY8KUBSnzsoTHz6L-21" value="INTERNET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="482" width="60" height="30" as="geometry" />
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-21" value="SOCIAL NETWORKS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="482" width="127.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-22" value="Comfort with technology" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="221" y="530" width="290" height="30" as="geometry" />
