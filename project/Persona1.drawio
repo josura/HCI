@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T09:48:34.181Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rf65-TAjZGB1SoX-rMO7" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:54:42.791Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="u21ZSCdn90aAMwR1Vevf" version="21.2.1" type="github">
   <diagram name="Pagina-1" id="pmZUNeCn2QfLpuEW-w0X">
     <mxGraphModel dx="1110" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-21" value="SOCIAL NETWORKS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="482" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ar-AbY8KUBSnzsoTHz6L-22" value="Comfort with technology" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-22" value="Needs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="221" y="530" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ar-AbY8KUBSnzsoTHz6L-23" value="Criteria for success" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-23" value="Wants" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="651" y="530" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-24" value="Values" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -87,6 +87,21 @@
         </mxCell>
         <mxCell id="ar-AbY8KUBSnzsoTHz6L-25" value="Fears" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650.5" y="680" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-26" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-27" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="651" y="555" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-28" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-29" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="710" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ar-AbY8KUBSnzsoTHz6L-30" value="Text" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="221" y="710" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
