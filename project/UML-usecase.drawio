@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T22:07:57.105Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GSy7Mcc4omKE_6pIUohq" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T22:10:14.180Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-8AJDoOqNIVTc686bdPZ" version="21.2.2" type="github">
   <diagram name="Pagina-1" id="0LB9FfLSfmmGYp-lagXw">
     <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,9 +67,9 @@
         <mxCell id="riMscgRFWsUVu2BTz0AU-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jyjkLJiU4tbFKEdJ2gJg-2" source="jyjkLJiU4tbFKEdJ2gJg-13" target="riMscgRFWsUVu2BTz0AU-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="riMscgRFWsUVu2BTz0AU-22" value="Get event info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riMscgRFWsUVu2BTz0AU-18">
+        <mxCell id="riMscgRFWsUVu2BTz0AU-22" value="Get event info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-89;" vertex="1" connectable="0" parent="riMscgRFWsUVu2BTz0AU-18">
           <mxGeometry x="0.3417" y="-1" relative="1" as="geometry">
-            <mxPoint x="-41" as="offset" />
+            <mxPoint x="-11" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jyjkLJiU4tbFKEdJ2gJg-2" source="jyjkLJiU4tbFKEdJ2gJg-13" target="riMscgRFWsUVu2BTz0AU-19">
@@ -114,11 +114,21 @@
             <mxPoint x="121" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="riMscgRFWsUVu2BTz0AU-48" value="event summary" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=91;" vertex="1" connectable="0" parent="riMscgRFWsUVu2BTz0AU-23">
+          <mxGeometry x="-0.4417" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-17" value="Event information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jyjkLJiU4tbFKEdJ2gJg-2">
           <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jyjkLJiU4tbFKEdJ2gJg-2" source="riMscgRFWsUVu2BTz0AU-19" target="jyjkLJiU4tbFKEdJ2gJg-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="riMscgRFWsUVu2BTz0AU-49" value="Can participate&lt;br&gt;to event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="riMscgRFWsUVu2BTz0AU-21">
+          <mxGeometry x="0.5667" y="2" relative="1" as="geometry">
+            <mxPoint x="22" y="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jyjkLJiU4tbFKEdJ2gJg-2" source="riMscgRFWsUVu2BTz0AU-19" target="riMscgRFWsUVu2BTz0AU-33">
           <mxGeometry relative="1" as="geometry" />
@@ -140,6 +150,11 @@
         </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jyjkLJiU4tbFKEdJ2gJg-2" source="riMscgRFWsUVu2BTz0AU-36" target="riMscgRFWsUVu2BTz0AU-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="riMscgRFWsUVu2BTz0AU-50" value="Contact info &lt;br&gt;are right" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="riMscgRFWsUVu2BTz0AU-46">
+          <mxGeometry x="0.3333" y="3" relative="1" as="geometry">
+            <mxPoint x="33" y="13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="riMscgRFWsUVu2BTz0AU-36" value="Control contact info of participant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jyjkLJiU4tbFKEdJ2gJg-2">
           <mxGeometry x="400" y="530" width="120" height="60" as="geometry" />
