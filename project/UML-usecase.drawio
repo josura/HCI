@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T13:05:55.927Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zjFxELAASyp9_ZcIvaX2" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T14:56:56.587Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lHiFLmGM2lPNH0G1cOur" version="21.2.2" type="github">
   <diagram name="Pagina-1" id="0LB9FfLSfmmGYp-lagXw">
     <mxGraphModel dx="1285" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="jyjkLJiU4tbFKEdJ2gJg-10" value="Group" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jyjkLJiU4tbFKEdJ2gJg-1">
           <mxGeometry x="8" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjkLJiU4tbFKEdJ2gJg-11" value="Event system" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="jyjkLJiU4tbFKEdJ2gJg-1">
+          <mxGeometry x="810" y="268.2" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="jyjkLJiU4tbFKEdJ2gJg-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="700" height="900" as="geometry" />
