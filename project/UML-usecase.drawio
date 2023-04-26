@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T12:55:43.915Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.2" etag="XkXykN36oN0xCkc8DBPV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T12:58:31.160Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="38nX9iTfr1V2pnUrx9Mp" version="21.2.2" type="github">
   <diagram name="Pagina-1" id="0LB9FfLSfmmGYp-lagXw">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jyjkLJiU4tbFKEdJ2gJg-1" value="Participate to event" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="880" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjkLJiU4tbFKEdJ2gJg-3" value="System boundary" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jyjkLJiU4tbFKEdJ2gJg-1">
+          <mxGeometry x="360" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jyjkLJiU4tbFKEdJ2gJg-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="700" height="900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
