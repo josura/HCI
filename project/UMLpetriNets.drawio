@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T15:15:36.019Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="C7cvlAbP1oo54CZQsqrs" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T15:16:25.550Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="llsDWnLa1lDUoqt3vQEI" version="21.2.3" type="github">
   <diagram name="Pagina-1" id="nvYx9loCH7i7AWjf0cHW">
     <mxGraphModel dx="698" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,11 @@
         <mxCell id="fdl8Fd37ZYrnNdNwSC8B-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdl8Fd37ZYrnNdNwSC8B-28" target="fdl8Fd37ZYrnNdNwSC8B-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdl8Fd37ZYrnNdNwSC8B-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdl8Fd37ZYrnNdNwSC8B-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fdl8Fd37ZYrnNdNwSC8B-28" value="Joining event" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -200,6 +205,9 @@
         <mxCell id="fdl8Fd37ZYrnNdNwSC8B-67" value="Unsuitable user" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="578" y="430" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fdl8Fd37ZYrnNdNwSC8B-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdl8Fd37ZYrnNdNwSC8B-68" target="fdl8Fd37ZYrnNdNwSC8B-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fdl8Fd37ZYrnNdNwSC8B-68" value="Unsuitable event" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="668" y="430" width="60" height="60" as="geometry" />
         </mxCell>
@@ -225,6 +233,17 @@
         </mxCell>
         <mxCell id="fdl8Fd37ZYrnNdNwSC8B-83" value="Event joined" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="234" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fdl8Fd37ZYrnNdNwSC8B-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdl8Fd37ZYrnNdNwSC8B-85" target="fdl8Fd37ZYrnNdNwSC8B-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.1428571428571" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdl8Fd37ZYrnNdNwSC8B-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="560" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="fdl8Fd37ZYrnNdNwSC8B-88" value="User correction" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="505" y="610" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
