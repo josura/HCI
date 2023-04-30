@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T22:24:56.056Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WcZ8FbynGQhYt3QXsM1K" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T22:25:33.173Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jPmvaGahPcSSq04mkcjc" version="21.2.3" type="github">
   <diagram name="Pagina-1" id="fhgu_bGae2IRU_DKyLHl">
     <mxGraphModel dx="2048" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,6 +73,9 @@
           <mxGeometry y="1" width="80" height="30" relative="1" as="geometry">
             <mxPoint x="20" y="-50" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XCeYHmsaSWDsEBu0kerH-18" value="VISTA logo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XCeYHmsaSWDsEBu0kerH-1">
+          <mxGeometry x="454" y="227" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
