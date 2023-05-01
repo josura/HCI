@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T11:40:12.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RhxojdBkQe11Q6gjFIZR" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T11:40:48.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="irNZOXWneRkzBWwYRC7O" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1357" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="313" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,8 +430,8 @@
         <mxCell id="HxkZM5L2tCHpHcFzdb74-31" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="930.09" y="718" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HxkZM5L2tCHpHcFzdb74-32" value="Group rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="999.09" y="718" width="80" height="30" as="geometry" />
+        <mxCell id="HxkZM5L2tCHpHcFzdb74-32" value="Evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1004.09" y="718" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HxkZM5L2tCHpHcFzdb74-33" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
           <mxGeometry x="820" y="749" width="29.09" height="20" as="geometry" />
@@ -451,8 +451,8 @@
         <mxCell id="HxkZM5L2tCHpHcFzdb74-38" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="930.09" y="757" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HxkZM5L2tCHpHcFzdb74-39" value="Group rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="999.09" y="757" width="80" height="30" as="geometry" />
+        <mxCell id="HxkZM5L2tCHpHcFzdb74-39" value="Evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1004.09" y="757" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HxkZM5L2tCHpHcFzdb74-40" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="1">
           <mxGeometry x="820" y="791" width="29.09" height="20" as="geometry" />
@@ -472,8 +472,8 @@
         <mxCell id="HxkZM5L2tCHpHcFzdb74-45" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="930.09" y="799" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HxkZM5L2tCHpHcFzdb74-46" value="Group rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="999.09" y="799" width="80" height="30" as="geometry" />
+        <mxCell id="HxkZM5L2tCHpHcFzdb74-46" value="Evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1004.09" y="799" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HxkZM5L2tCHpHcFzdb74-47" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/event.svg;" vertex="1" parent="1">
           <mxGeometry x="963.5" y="663" width="20" height="20" as="geometry" />
