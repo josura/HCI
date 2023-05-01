@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T18:56:19.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ki2HOFJ11e2bsjOFssHf" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T19:06:46.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RnOI38O2c0APApPzUQjK" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,23 +10,8 @@
         <mxCell id="7026571954dc6520-2" value="Joined event" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="7026571954dc6520-3" value="https://www.vistasmartcity.com/events/?eventid=1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
+        <mxCell id="7026571954dc6520-3" value="https://www.vistasmartcity.com/organizations/?orgid=1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PswUvU7GoWv7nSjoJi2_-21" value="Event name" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="166.37" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PswUvU7GoWv7nSjoJi2_-22" value="Location" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="166.37" y="220" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PswUvU7GoWv7nSjoJi2_-23" value="Date" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="166.37" y="250" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4rItziBb_c25DRYMOsrU-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="25.45" y="180" width="130.92" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="4rItziBb_c25DRYMOsrU-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="25.450000000000003" y="280" width="58.19" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rItziBb_c25DRYMOsrU-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="40" y="400" width="945" height="370" as="geometry" />
@@ -185,9 +170,6 @@
         </mxCell>
         <mxCell id="rk1dpR8E0q6zi79prH13-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="440.00000000000006" y="588" width="122.75" height="92.27" as="geometry" />
-        </mxCell>
-        <mxCell id="4rItziBb_c25DRYMOsrU-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" parent="1" vertex="1">
-          <mxGeometry x="127.45" y="300" width="58.19" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rk1dpR8E0q6zi79prH13-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/menu-128.png" parent="1" vertex="1">
           <mxGeometry x="30" y="130" width="40" height="40" as="geometry" />
