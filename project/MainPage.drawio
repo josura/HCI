@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:09:07.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tFfuBd7b4Ervqvhu4DBr" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T08:11:49.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fnchm3tct7lFwJCdZSZW" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1018" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="339" dy="206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,28 @@
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-1" value="Organization" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="502" y="155" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Start date&lt;/font&gt;" style="rounded=0;arcSize=9;fillColor=none;align=left;spacingLeft=5;strokeColor=#B1B4B8;html=1;strokeWidth=1;fontColor=#596780;fontSize=12;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="791" y="239" width="109" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-2" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="Ge-I_H_O3i1TYtU1H6FU-1">
+          <mxGeometry x="1" y="0.5" width="18" height="18" relative="1" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;End date&lt;/font&gt;" style="rounded=0;arcSize=9;fillColor=none;align=left;spacingLeft=5;strokeColor=#B1B4B8;html=1;strokeWidth=1;fontColor=#596780;fontSize=12;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="903" y="239" width="109" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-4" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="Ge-I_H_O3i1TYtU1H6FU-3">
+          <mxGeometry x="1" y="0.5" width="18" height="18" relative="1" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-5" value="Approximate Location" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="790" y="280" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_maps-128.png" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="970" y="280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-6" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="130" width="40" height="40" as="geometry" />
