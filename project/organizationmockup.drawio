@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T20:45:38.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3H96T5x-Y3br24CI147w" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T20:46:46.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zspzVfGZGov4uJ7XUd-t" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="842" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,16 +169,91 @@
           <mxGeometry x="78" y="664" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n46MG3Q2pXrI5LUOVnrd-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-48-128.png" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="103.90999999999997" y="710" width="35" height="35" as="geometry" />
+          <mxGeometry x="83.90999999999997" y="712" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="n46MG3Q2pXrI5LUOVnrd-93" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="78" y="728" width="80" height="30" as="geometry" />
+          <mxGeometry x="58" y="730" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n46MG3Q2pXrI5LUOVnrd-94" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/event.svg;" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="111.40999999999997" y="713" width="20" height="20" as="geometry" />
+          <mxGeometry x="91.40999999999997" y="715" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n46MG3Q2pXrI5LUOVnrd-96" value="Activities done: &lt;font color=&quot;#66b2ff&quot;&gt;Technician 5&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#33ff99&quot;&gt;cleaner 3&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;evaluator 2&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;information 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;align=left;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="200" y="637" width="95.45" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-97" value="See &lt;br&gt;results" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="128" y="704" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-98" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="343" y="624" width="252" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-99" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="353" y="634" width="46.55" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-100" value="Event name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="393" y="624" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-101" value="Location" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="393" y="634" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-102" value="Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="393" y="644" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="353" y="669" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-104" value="Event short&amp;nbsp;&lt;br&gt;description" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="363" y="664" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-105" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-48-128.png" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="368.90999999999997" y="712" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-106" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="343" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-107" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/event.svg;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="376.40999999999997" y="715" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-108" value="Activities done: &lt;font color=&quot;#66b2ff&quot;&gt;Technician 5&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#33ff99&quot;&gt;cleaner 3&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;evaluator 2&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;information 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;align=left;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="485" y="637" width="95.45" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-109" value="See &lt;br&gt;results" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="413" y="704" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="633" y="624" width="252" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-111" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="643" y="634" width="46.55" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-112" value="Event name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="683" y="624" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-113" value="Location" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="683" y="634" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-114" value="Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="683" y="644" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="643" y="669" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-116" value="Event short&amp;nbsp;&lt;br&gt;description" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="653" y="664" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-48-128.png" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="658.91" y="712" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-118" value="Event rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="633" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-119" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/event.svg;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="666.41" y="715" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-120" value="Activities done: &lt;font color=&quot;#66b2ff&quot;&gt;Technician 5&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#33ff99&quot;&gt;cleaner 3&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;evaluator 2&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;information 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;align=left;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="775" y="637" width="95.45" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="n46MG3Q2pXrI5LUOVnrd-121" value="See &lt;br&gt;results" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="703" y="704" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rk1dpR8E0q6zi79prH13-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/menu-128.png" parent="1" vertex="1">
           <mxGeometry x="30" y="130" width="40" height="40" as="geometry" />
