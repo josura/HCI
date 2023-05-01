@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:05:50.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KtehBVTlrLlGknMyAtVi" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T08:08:55.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kdRzzdZWBPFXgouwWKhf" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,20 +19,20 @@
         <mxCell id="7026571954dc6520-6" value="Events this week" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="239" y="155" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7026571954dc6520-7" value="See the events for this week in your location" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
+        <mxCell id="7026571954dc6520-7" value="See the volunteering events for this week in your location" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="239" y="185" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-8" value="History" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="240" y="245" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7026571954dc6520-9" value="See your history of events" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
+        <mxCell id="7026571954dc6520-9" value="See your events&#39; history" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="240" y="275" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-10" value="Schedule" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="800" y="155" width="170" height="30" as="geometry" />
+          <mxGeometry x="502" y="239" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-11" value="See the schedule for a specific time range" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="800" y="185" width="240" height="40" as="geometry" />
+          <mxGeometry x="502" y="270" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7026571954dc6520-12" value="Search" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="800" y="245" width="170" height="30" as="geometry" />
@@ -72,15 +72,6 @@
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/menu-128.png" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry y="110" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-8" value="" style="swimlane;startSize=0;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="380" y="110" width="340" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Groups&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-8" vertex="1">
-          <mxGeometry x="27" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-16" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ff0055&quot;&gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-8" vertex="1">
-          <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="40" y="115" width="40" height="30" as="geometry" />
@@ -361,26 +352,20 @@
         <mxCell id="wlsTM-EWgnDsblmS1kuD-155" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Image.svg;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="33.45" y="694" width="46.55" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-1" value="Groups" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="537" y="175" width="170" height="30" as="geometry" />
+        <mxCell id="wlsTM-EWgnDsblmS1kuD-2" value="See the organizations working for the city of your interest" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="502" y="185" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-2" value="See your joined groups and rate your experience&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="537" y="205" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-3" value="Friends activities" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="538" y="265" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-4" value="See the activities of your friends" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="538" y="295" width="240" height="40" as="geometry" />
+        <mxCell id="wlsTM-EWgnDsblmS1kuD-1" value="Organization" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" parent="7026571954dc6520-1" vertex="1">
+          <mxGeometry x="502" y="155" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-6" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-7" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="130" width="340" height="40" as="geometry" />
+          <mxGeometry x="70" y="130" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Events&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-7" vertex="1">
-          <mxGeometry x="66" width="100" height="40" as="geometry" />
+        <mxCell id="wlsTM-EWgnDsblmS1kuD-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;VOLUNTEERING EVENTS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-7" vertex="1">
+          <mxGeometry x="80" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-15" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ff0055&quot;&gt;&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-7" vertex="1">
           <mxGeometry x="40" width="40" height="40" as="geometry" />
@@ -390,8 +375,8 @@
             <mxRectangle x="750" y="130" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wlsTM-EWgnDsblmS1kuD-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Username&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-9" vertex="1">
-          <mxGeometry x="13" width="130" height="40" as="geometry" />
+        <mxCell id="wlsTM-EWgnDsblmS1kuD-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ACCOUNT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="wlsTM-EWgnDsblmS1kuD-9" vertex="1">
+          <mxGeometry x="8" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-14" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="40" height="40" as="geometry" />
