@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T20:55:34.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7fT26zQ80bP-EEUPat-W" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T20:56:35.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8UM4Od8B5KFR0XdPbOlv" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1018" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -447,6 +447,12 @@
         </mxCell>
         <mxCell id="nS9qSaVZvVvo8CvNV22C-139" value="2.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="537.7500000000001" y="761" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nS9qSaVZvVvo8CvNV22C-140" value="Email" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="213.45" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nS9qSaVZvVvo8CvNV22C-290" value="Website" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="193.45" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rk1dpR8E0q6zi79prH13-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/menu-128.png" parent="1" vertex="1">
           <mxGeometry x="30" y="130" width="40" height="40" as="geometry" />
