@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T11:44:41.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ylzOCOcehY_tMOjKaXNu" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T11:45:23.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MXOCxfH60VKS_GjnAk9t" version="21.2.3" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="842" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="Ge-I_H_O3i1TYtU1H6FU-61" value="Event short&amp;nbsp;&lt;br&gt;description" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="588.78" y="763" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-74" value="Activities available: &lt;font color=&quot;#66b2ff&quot;&gt;Technician&lt;/font&gt;, &lt;font color=&quot;#33ff99&quot;&gt;cleaner&lt;/font&gt;, &lt;font color=&quot;#990000&quot;&gt;evaluator&lt;/font&gt;, &lt;font color=&quot;#4d4d4d&quot;&gt;information&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;align=left;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="Ge-I_H_O3i1TYtU1H6FU-74" value="Activities available: &lt;font color=&quot;#66b2ff&quot;&gt;Technician 5&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#33ff99&quot;&gt;cleaner 3&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;evaluator 2&lt;/font&gt;, &lt;br&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;information 3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;align=left;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="224.55" y="694" width="125.45" height="106" as="geometry" />
         </mxCell>
         <mxCell id="wlsTM-EWgnDsblmS1kuD-6" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
