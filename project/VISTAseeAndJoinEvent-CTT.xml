@@ -1,0 +1,164 @@
+<?xmp version="1.0" encoding="UTF-8" standalone="yes"?>
+<TaskModel xmlns="http://giove.isti.cnr.it/ctt" xmlns:coop="http://giove.isti.cnr.it/cttcoop" NameTaskModelID="select event">
+    <Task Identifier="select event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <SubTask>
+            <Task Identifier="joined event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <TemporalOperator name="Choice"/>
+                <Parent name="select event"/>
+                <SiblingRight name="unjoined event"/>
+                <SubTask>
+                    <Task Identifier="See info" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Interleaving"/>
+                        <Parent name="joined event"/>
+                        <SiblingRight name="Control if event finished"/>
+                    </Task>
+                    <Task Identifier="Control if event finished" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Disabling"/>
+                        <Parent name="joined event"/>
+                        <SiblingLeft name="See info"/>
+                        <SiblingRight name="modify event"/>
+                    </Task>
+                    <Task Identifier="modify event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <Type>None</Type>
+                        <Precondition operator="and">
+                            <ConditionGroup operator="eq">
+<ConditionLiteral object="event finished"/>
+<ConditionLiteral value="false"/>
+                            </ConditionGroup>
+                        </Precondition>
+                        <Parent name="joined event"/>
+                        <SiblingLeft name="Control if event finished"/>
+                        <Object name="event finished" class="Boolean"/>
+                        <SubTask>
+                            <Task Identifier="unjoin event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="Disabling"/>
+<Parent name="modify event"/>
+<SiblingRight name="quit unjoin"/>
+<SubTask>
+    <Task Identifier="Confirm unjoin" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="SequentialEnablingInfo"/>
+        <Parent name="unjoin event"/>
+        <SiblingRight name="update system"/>
+    </Task>
+    <Task Identifier="update system" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="Disabling"/>
+        <Parent name="unjoin event"/>
+        <SiblingLeft name="Confirm unjoin"/>
+    </Task>
+</SubTask>
+                            </Task>
+                            <Task Identifier="quit unjoin" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="Choice"/>
+<Parent name="modify event"/>
+<SiblingLeft name="unjoin event"/>
+<SiblingRight name="modify position"/>
+                            </Task>
+                            <Task Identifier="modify position" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="Disabling"/>
+<Parent name="modify event"/>
+<SiblingLeft name="quit unjoin"/>
+<SiblingRight name="quit modify"/>
+<SubTask>
+    <Task Identifier="specify new role" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="SequentialEnablingInfo"/>
+        <Parent name="modify position"/>
+        <SiblingRight name="control suitability"/>
+    </Task>
+    <Task Identifier="control suitability" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="SequentialEnablingInfo"/>
+        <Parent name="modify position"/>
+        <SiblingLeft name="specify new role"/>
+        <SiblingRight name="update the event"/>
+    </Task>
+    <Task Identifier="update the event" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <Precondition operator="and">
+            <ConditionGroup operator="and">
+                <ConditionLiteral object="suitable"/>
+                <ConditionLiteral value="true"/>
+            </ConditionGroup>
+        </Precondition>
+        <TemporalOperator name="Disabling"/>
+        <Parent name="modify position"/>
+        <SiblingLeft name="control suitability"/>
+        <Object name="suitable" class="Boolean"/>
+    </Task>
+</SubTask>
+                            </Task>
+                            <Task Identifier="quit modify" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<Parent name="modify event"/>
+<SiblingLeft name="modify position"/>
+                            </Task>
+                        </SubTask>
+                    </Task>
+                </SubTask>
+            </Task>
+            <Task Identifier="unjoined event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <Parent name="select event"/>
+                <SiblingLeft name="joined event"/>
+                <SubTask>
+                    <Task Identifier="join event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Disabling"/>
+                        <Parent name="unjoined event"/>
+                        <SiblingRight name="quit join"/>
+                        <SubTask>
+                            <Task Identifier="Specify role and get info" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="SequentialEnablingInfo"/>
+<Parent name="join event"/>
+<SiblingRight name="check suitability"/>
+                            </Task>
+                            <Task Identifier="check suitability" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="SequentialEnablingInfo"/>
+<Parent name="join event"/>
+<SiblingLeft name="Specify role and get info"/>
+<SiblingRight name="add the user to the event"/>
+                            </Task>
+                            <Task Identifier="add the user to the event" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<Precondition operator="and">
+    <ConditionGroup operator="and">
+        <ConditionLiteral object="suitability"/>
+        <ConditionLiteral value="true"/>
+    </ConditionGroup>
+</Precondition>
+<TemporalOperator name="Disabling"/>
+<Parent name="join event"/>
+<SiblingLeft name="check suitability"/>
+<Object name="suitability" class="Boolean"/>
+                            </Task>
+                        </SubTask>
+                    </Task>
+                    <Task Identifier="quit join" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Interleaving"/>
+                        <Parent name="unjoined event"/>
+                        <SiblingLeft name="join event"/>
+                        <SiblingRight name="See information"/>
+                    </Task>
+                    <Task Identifier="See information" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <Parent name="unjoined event"/>
+                        <SiblingLeft name="quit join"/>
+                    </Task>
+                </SubTask>
+            </Task>
+        </SubTask>
+    </Task>
+</TaskModel>
