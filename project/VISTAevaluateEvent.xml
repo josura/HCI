@@ -1,0 +1,121 @@
+<?xmp version="1.0" encoding="UTF-8" standalone="yes"?>
+<TaskModel xmlns="http://giove.isti.cnr.it/ctt" xmlns:coop="http://giove.isti.cnr.it/cttcoop" NameTaskModelID="Evaluate event">
+    <Task Identifier="Evaluate event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <SubTask>
+            <Task Identifier="get info about event" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <TemporalOperator name="SequentialEnablingInfo"/>
+                <Parent name="Evaluate event"/>
+                <SiblingRight name="evaluate user contributions"/>
+                <SubTask>
+                    <Task Identifier="get human evaluation" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Interleaving"/>
+                        <Parent name="get info about event"/>
+                        <SiblingRight name="get automated evaluation"/>
+                    </Task>
+                    <Task Identifier="get automated evaluation" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Interleaving"/>
+                        <Parent name="get info about event"/>
+                        <SiblingLeft name="get human evaluation"/>
+                        <SiblingRight name="get additional info"/>
+                    </Task>
+                    <Task Identifier="get additional info" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="Interleaving"/>
+                        <Parent name="get info about event"/>
+                        <SiblingLeft name="get automated evaluation"/>
+                        <SiblingRight name="Request for feedback"/>
+                    </Task>
+                    <Task Identifier="Request for feedback" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <Type>None</Type>
+                        <Parent name="get info about event"/>
+                        <SiblingLeft name="get additional info"/>
+                        <SubTask>
+                            <Task Identifier="request for user feedback" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<TemporalOperator name="Interleaving"/>
+<Parent name="Request for feedback"/>
+<SiblingRight name="request for organization feedback"/>
+<SubTask>
+    <Task Identifier="send notification and set timer" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="SequentialEnabling"/>
+        <Parent name="request for user feedback"/>
+        <SiblingRight name="user give feedback"/>
+    </Task>
+    <Task Identifier="user give feedback" Category="interaction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="Disabling"/>
+        <Parent name="request for user feedback"/>
+        <SiblingLeft name="send notification and set timer"/>
+        <SiblingRight name="Timeout"/>
+    </Task>
+    <Task Identifier="Timeout" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <TemporalOperator name="SequentialEnablingInfo"/>
+        <Parent name="request for user feedback"/>
+        <SiblingLeft name="user give feedback"/>
+        <SiblingRight name="write feedback"/>
+    </Task>
+    <Task Identifier="write feedback" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+        <Name>name</Name>
+        <Parent name="request for user feedback"/>
+        <SiblingLeft name="Timeout"/>
+    </Task>
+</SubTask>
+                            </Task>
+                            <Task Identifier="request for organization feedback" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+<Name>name</Name>
+<Parent name="Request for feedback"/>
+<SiblingLeft name="request for user feedback"/>
+                            </Task>
+                        </SubTask>
+                    </Task>
+                </SubTask>
+            </Task>
+            <Task Identifier="evaluate user contributions" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <TemporalOperator name="SequentialEnablingInfo"/>
+                <Parent name="Evaluate event"/>
+                <SiblingLeft name="get info about event"/>
+                <SiblingRight name="evaluate overall results"/>
+                <SubTask>
+                    <Task Identifier="compute contribution score" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="SequentialEnablingInfo"/>
+                        <Parent name="evaluate user contributions"/>
+                        <SiblingRight name="update user contribution"/>
+                    </Task>
+                    <Task Identifier="update user contribution" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <TemporalOperator name="SequentialEnabling"/>
+                        <Parent name="evaluate user contributions"/>
+                        <SiblingLeft name="compute contribution score"/>
+                        <SiblingRight name="notify user"/>
+                    </Task>
+                    <Task Identifier="notify user" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                        <Name>name</Name>
+                        <Parent name="evaluate user contributions"/>
+                        <SiblingLeft name="update user contribution"/>
+                    </Task>
+                </SubTask>
+            </Task>
+            <Task Identifier="evaluate overall results" Category="abstraction" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <TemporalOperator name="SequentialEnablingInfo"/>
+                <Parent name="Evaluate event"/>
+                <SiblingLeft name="evaluate user contributions"/>
+                <SiblingRight name="return results report"/>
+            </Task>
+            <Task Identifier="return results report" Category="application" Iterative="false" Optional="false" PartOfCooperation="false" Frequency=" ">
+                <Name>name</Name>
+                <Parent name="Evaluate event"/>
+                <SiblingLeft name="evaluate overall results"/>
+            </Task>
+        </SubTask>
+    </Task>
+</TaskModel>
